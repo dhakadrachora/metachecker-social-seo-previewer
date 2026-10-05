@@ -1,0 +1,8 @@
+{
+  "name": "metachecker-social-seo-previewer",
+  "version": "1.0.0",
+  "description": "Inspect and preview how your website link looks when shared on Google, WhatsApp, Facebook, and Twitter.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
